@@ -1,0 +1,10 @@
+{
+    "app_name": "Flume",
+    "source": "https://github.com/tylerdotai/flume",
+    "source_type": "git",
+    "flows": "create a board, add a list, add a card, drag card between lists",
+    "codeberg_user": "tylerdotai",
+    "codeberg_token": "YOUR_TOKEN_HERE",
+    "port": 3000,
+    "package_manager": "npm"
+}
