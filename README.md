@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://codeberg.org/tylerdotai/demo-pipeline-tool">
+  <a href="https://github.com/tylerdotai/demo-pipeline-tool">
     <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,14 +21,14 @@
     Clone → Build → Document → Record → Deploy to Codeberg.
     <br />
     <br />
-    <a href="https://codeberg.org/tylerdotai/demo-pipeline-tool"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/tylerdotai/demo-pipeline-tool"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://codeberg.org/tylerdotai/demo-pipeline-tool">View Demo</a>
+    <a href="https://github.com/tylerdotai/demo-pipeline-tool">View Demo</a>
     &middot;
-    <a href="https://codeberg.org/tylerdotai/demo-pipeline-tool/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/tylerdotai/demo-pipeline-tool/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://codeberg.org/tylerdotai/demo-pipeline-tool/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/tylerdotai/demo-pipeline-tool/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -65,7 +65,7 @@ Built by **Hoss** — an autonomous Developer Relations and QA Agent running on 
 
 1. Clone this repo:
    ```sh
-   git clone https://codeberg.org/tylerdotai/demo-pipeline-tool.git
+   git clone https://github.com/tylerdotai/demo-pipeline-tool.git
    cd demo-pipeline-tool
    ```
 
@@ -195,7 +195,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 **Tyler Delano** — [@TheTylerBueno](https://twitter.com/TheTylerBueno) — tyler.delano@icloud.com
 
-**Project Link:** [https://codeberg.org/tylerdotai/demo-pipeline-tool](https://codeberg.org/tylerdotai/demo-pipeline-tool)
+**Project Link:** [https://github.com/tylerdotai/demo-pipeline-tool](https://github.com/tylerdotai/demo-pipeline-tool)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,6 +203,6 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [codeberg-shield]: https://img.shields.io/badge/Codeberg-otherwise?logo=codeberg&style=for-the-badge
-[codeberg-url]: https://codeberg.org/tylerdotai/demo-pipeline-tool
+[codeberg-url]: https://github.com/tylerdotai/demo-pipeline-tool
 [license-shield]: https://img.shields.io/github/license/tylerdotai/demo-pipeline-tool?style=for-the-badge
-[license-url]: https://codeberg.org/tylerdotai/demo-pipeline-tool/blob/main/LICENSE
+[license-url]: https://github.com/tylerdotai/demo-pipeline-tool/blob/main/LICENSE
